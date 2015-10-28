@@ -2599,7 +2599,8 @@ p > video {
 }
 
 .widecolumn label,
-.widecolumn .mu_register label {
+.widecolumn .mu_register label,
+.widecolumn .mu_register legend {
 	color: #686868;
 	font-family: Montserrat, "Helvetica Neue", sans-serif;
 	font-size: 13px;
@@ -2610,11 +2611,13 @@ p > video {
 	text-transform: uppercase;
 }
 
-.widecolumn .mu_register label {
+.widecolumn .mu_register label,
+.widecolumn .mu_register legend {
 	margin: 2.1538461538em 0.7692307692em 0.5384615385em 0;
 }
 
-.widecolumn .mu_register label strong {
+.widecolumn .mu_register label strong,
+.widecolumn .mu_register legend strong {
 	font-weight: 400;
 }
 
