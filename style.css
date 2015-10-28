@@ -2624,8 +2624,9 @@ p > video {
 .widecolumn .mu_register fieldset label {
 	margin-top: 1.1538461538em;
 	font-weight: normal;
-	text-transform: none;
+	font-size: inherit;
 	letter-spacing: normal;
+	text-transform: none;
 }
 
 .widecolumn #key,
